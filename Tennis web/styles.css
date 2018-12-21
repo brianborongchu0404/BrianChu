@@ -1,0 +1,124 @@
+h1{
+    font-family: 'Gamja Flower', cursive;
+    font-size:70px;
+}
+
+p{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 28px;
+}
+
+h2{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 50px;
+}
+
+h3{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 40px;
+}
+
+h4{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 30px;
+}
+li{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 28px;
+}
+
+a{
+    
+    text-decoration: none;
+}
+
+.see{
+    font-size: 20px;
+}
+
+
+
+body{
+    background-color: white;
+    width:800px;
+    margin:0 auto;
+    border:0 auto;
+    padding:10px 50px 60px;
+}
+
+.button {
+    font-family: 'Gamja Flower', cursive;
+    padding: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    Width: 12em;
+    
+  }
+
+  .button1{
+    
+    background-image: url(image/Screenshot_20180413-163912_01-1.jpg);
+    color: orange;
+  }
+
+ 
+  
+  .button2{
+      background-image: url(image/wimbledon.jpg);
+      color: rgb(225, 0, 255);
+  }
+ 
+
+  .button3{
+      background-image: url(image/cq5dam.web.1170.585.jpeg);
+      color:white;
+  }
+
+ 
+
+  .button4{
+      background-image: url(image/tennis-game.jpeg);
+      color:white; 
+  }
+
+  .button5{
+      background-image: url(image/63619.jpg);
+  }
+
+  .button6{
+      background-image: url(image/Intermediate-Bucket.jpg);
+      color:rgb(0, 255, 0);
+  }
+
+  .button7{
+      background-image: url(image/download.jpg);
+  }
+
+  .button8{
+      background-image: url(image/images.jpg);
+      color:white;
+  }
+
+  .button9{
+      background-image: url(image/avoid-tennis-injuries-this-summer.jpg);
+  }
+
+  .button10{
+      background-image: url(image/download\ andy.jpg);
+      color:white;
+  }
+
+  .King{
+    font-size: 18px;  
+  }
+
+  #image {
+    height: 180px;
+    width: 135px;
+    background: url('image/federer_serve_06_0508.jpg')0px 0px;
+  }
+   
